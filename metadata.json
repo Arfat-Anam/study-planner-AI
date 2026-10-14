@@ -1,0 +1,6 @@
+{
+  "name": "StudyPilot AI",
+  "description": "AI-powered personalized study planner, step-by-step tutor, interactive quiz generator, spaced-repetition flashcards, focus timer, and learning analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
